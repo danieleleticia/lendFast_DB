@@ -14,4 +14,5 @@ Com cada aluguel confirmado, vem o pagamento. Esse registro financeiro só exist
 A plataforma transforma objetos ociosos em oportunidades, aproximando pessoas e fortalecendo a confiança entre todos.
 
 ![Minha imagem](Captura de tela 2025-09-04 185437.png)
+![Minha imagem](assets/Captura de tela 2025-09-04 185437.png)
 
