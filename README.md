@@ -12,3 +12,6 @@ O locatário, por sua vez, percorre essas ofertas e solicita aquilo que precisa.
 Com cada aluguel confirmado, vem o pagamento. Esse registro financeiro só existe se houver um aluguel ativo e carrega informações essenciais (id, valor, método e status do pagamento), garantindo que cada transação seja segura e organizada.
 
 A plataforma transforma objetos ociosos em oportunidades, aproximando pessoas e fortalecendo a confiança entre todos.
+
+![Minha imagem](Captura de tela 2025-09-04 185437.png)
+
