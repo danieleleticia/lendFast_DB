@@ -129,8 +129,8 @@ public class UsuarioDAO extends ConnectionDAO
                         rs.getString("CPF"),
                         rs.getString("nome"),
                         rs.getObject("dataNasc", LocalDate.class), // Converte automatico
-                        rs.getString("endereço"),
-                        rs.getInt("Conta_codigo")
+                        rs.getString("endereco"),
+                        rs.getInt("cod_conta")
                 );
                 usuarios.add(usuarioAux);
             }

@@ -8,10 +8,10 @@ public class Aluguel
     private String contrato;
     private int periodoAluguel;
     private int produto_codigo;
-    private char produto_locador_usuario_cpf;
+    private String produto_locador_usuario_cpf;
 
     //construtores
-    public Aluguel(int codigo, String fase, String contrato, int periodoAluguel, int produto_codigo, char produto_locador_usuario_cpf)
+    public Aluguel(int codigo, String fase, String contrato, int periodoAluguel, int produto_codigo, String produto_locador_usuario_cpf)
     {
         this.codigo = codigo;
         this.fase = fase;
